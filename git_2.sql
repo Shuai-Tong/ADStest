@@ -1,7 +1,6 @@
 SELECT TOP (1000) [Month]
       ,[OrganizationName]
       ,[CustomerType]
-      ,[OfferType]
       ,[SubscriptionCount]
       ,[UserCount]
       ,[CategoryCount]
