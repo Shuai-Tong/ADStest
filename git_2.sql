@@ -1,4 +1,4 @@
-SELECT TOP (1000) [Month]
+SELECT TOP (100) [Month]
       ,[OrganizationName]
       ,[CustomerType]
       ,[SubscriptionCount]
