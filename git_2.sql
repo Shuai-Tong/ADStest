@@ -9,4 +9,5 @@ SELECT TOP (100) [Month]
       ,[ExistingCustomer]
       ,[ChurnedCustomer]
       ,[ChurnMonth]
+      
   FROM [dbo].[v_MLSynapseTelemetryCustomerAnalysis]

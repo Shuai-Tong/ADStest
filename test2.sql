@@ -1,0 +1,1 @@
+CREATE USER [v-shtong@microsoft.com.com] FROM EXTERNAL PROVIDER
